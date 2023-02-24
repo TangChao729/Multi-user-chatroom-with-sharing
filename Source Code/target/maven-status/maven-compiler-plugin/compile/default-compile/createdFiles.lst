@@ -1,0 +1,16 @@
+Manager/ConnectionThread.class
+Manager/CreateWhiteBoard.class
+Client/UserMessageConnectionThread.class
+Client/ClientUI.class
+Manager/ReadyToConnectThread.class
+src/UIElements.class
+src/PanelPainter.class
+Client/JoinWhiteBoard.class
+Client/UserConnectionThread.class
+Client/ClientUIListener.class
+Manager/Synchronizer.class
+Manager/MessageReadyToConnectThread.class
+Manager/ManagerUIListener.class
+Manager/ChatMessageThread.class
+Manager/ManagerUI.class
+src/Commands.class
