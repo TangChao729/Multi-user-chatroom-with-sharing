@@ -1,6 +1,6 @@
-# WhiteBoard Manager
+# Multi-user chartroom with drawing and file sharing 
 
-The WhiteBoard Manager is a server-side Java application designed to create a collaborative environment through a shared whiteboard platform. The application provides real-time synchronization of drawings and messages across connected clients. The application also provides user management capabilities like kicking a user and synchronizing user lists. 
+This software is a Java application designed to create a collaborative environment through a shared whiteboard platform that include multiple features. The application provides real-time synchronization of drawings and messages across connected clients as well as file sharing. The application also provides user management capabilities like kicking a user and synchronizing user lists. 
 
 ## Key Components
 
